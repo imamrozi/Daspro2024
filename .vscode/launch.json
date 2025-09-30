@@ -1,0 +1,385 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tugas2",
+            "request": "launch",
+            "mainClass": "minggu13.Tugas2",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Parameter2",
+            "request": "launch",
+            "mainClass": "minggu13.Parameter2",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "ParameterCoba",
+            "request": "launch",
+            "mainClass": "minggu13.ParameterCoba",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "ContohFungsi",
+            "request": "launch",
+            "mainClass": "minggu13.ContohFungsi",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "StokGudang",
+            "request": "launch",
+            "mainClass": "minggu11.StokGudang",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Gudang",
+            "request": "launch",
+            "mainClass": "minggu11.Gudang",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "minggu11.Array2D",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Searching",
+            "request": "launch",
+            "mainClass": "minggu10.Searching",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "PemesananKafe",
+            "request": "launch",
+            "mainClass": "minggu10.PemesananKafe",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "NilaiMahasiswa",
+            "request": "launch",
+            "mainClass": "minggu10.NilaiMahasiswa",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Larik",
+            "request": "launch",
+            "mainClass": "minggu10.Larik",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "minggu9.Ascii",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "BintangSegiTiga",
+            "request": "launch",
+            "mainClass": "minggu9.BintangSegiTiga",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Rpg2",
+            "request": "launch",
+            "mainClass": "Rpg2",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "ZvP",
+            "request": "launch",
+            "mainClass": "ZvP",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Bintang",
+            "request": "launch",
+            "mainClass": "minggu9.Bintang",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "HeroVsVillain",
+            "request": "launch",
+            "mainClass": "HeroVsVillain",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "FreeFire",
+            "request": "launch",
+            "mainClass": "FreeFire",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "RPG",
+            "request": "launch",
+            "mainClass": "RPG",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "ZombieVsPlant",
+            "request": "launch",
+            "mainClass": "ZombieVsPlant",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Siakad",
+            "request": "launch",
+            "mainClass": "minggu7.Siakad",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Parkir",
+            "request": "launch",
+            "mainClass": "minggu7.Parkir",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop",
+            "request": "launch",
+            "mainClass": "minggu7.Bioskop",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "minggu7.Continue",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "minggu2.Hello",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "BungaTabungan",
+            "request": "launch",
+            "mainClass": "minggu3.BungaTabungan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan",
+            "request": "launch",
+            "mainClass": "minggu3.GajiKaryawan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "HambatanParalel",
+            "request": "launch",
+            "mainClass": "minggu3.HambatanParalel",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Kecepatan",
+            "request": "launch",
+            "mainClass": "minggu3.Kecepatan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Mahasiswa",
+            "request": "launch",
+            "mainClass": "minggu3.Mahasiswa",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "minggu3.New",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "POS",
+            "request": "launch",
+            "mainClass": "minggu3.POS",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Percepatan",
+            "request": "launch",
+            "mainClass": "minggu3.Percepatan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Pitagoras",
+            "request": "launch",
+            "mainClass": "minggu3.Pitagoras",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "SegiTiga",
+            "request": "launch",
+            "mainClass": "minggu3.SegiTiga",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "TarifListrik",
+            "request": "launch",
+            "mainClass": "minggu3.TarifListrik",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Tegangan",
+            "request": "launch",
+            "mainClass": "minggu3.Tegangan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "DeteksiHari",
+            "request": "launch",
+            "mainClass": "minggu5.DeteksiHari",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Kafe",
+            "request": "launch",
+            "mainClass": "minggu5.Kafe",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanBilangan",
+            "request": "launch",
+            "mainClass": "minggu5.PemilihanBilangan",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHari",
+            "request": "launch",
+            "mainClass": "minggu5.PemilihanHari",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Siakad",
+            "request": "launch",
+            "mainClass": "minggu5.Siakad",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Ternary",
+            "request": "launch",
+            "mainClass": "minggu5.Ternary",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Buku",
+            "request": "launch",
+            "mainClass": "minggu6.Buku",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "Kafe(1)",
+            "request": "launch",
+            "mainClass": "minggu6.Kafe",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "NilaiMax",
+            "request": "launch",
+            "mainClass": "minggu6.NilaiMax",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "OperatorLogika",
+            "request": "launch",
+            "mainClass": "minggu6.OperatorLogika",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "TahunKabisat",
+            "request": "launch",
+            "mainClass": "minggu6.TahunKabisat",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "TokoSepatu",
+            "request": "launch",
+            "mainClass": "minggu6.TokoSepatu",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "minggu7.DoWhile",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "minggu7.For",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "minggu7.While",
+            "projectName": "Daspro2024_8bd829c5"
+        },
+        {
+            "type": "java",
+            "name": "While2",
+            "request": "launch",
+            "mainClass": "minggu7.While2",
+            "projectName": "Daspro2024_8bd829c5"
+        }
+    ]
+}

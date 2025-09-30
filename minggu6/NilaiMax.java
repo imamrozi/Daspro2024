@@ -2,24 +2,20 @@ package minggu6;
 
 public class NilaiMax {
     public static void main(String[] args) {
-        //variabel
-        int bil1=28, bil2=54, bil3=15, bilMax;
-
-        //pengkodisian
-        if(bil1>bil2){
-            if(bil1>bil3){
-                bilMax=bil1;
+        int bill1 = 28, bill2 = 54, bill3 = 15, billmax;
+        if(bill1 > bill2){
+            if(bill1 > bill3){
+                billmax = bill1;
             }else{
-                bilMax=bil3;
+                billmax = bill3;
             }
         }else {
-            if(bil2>bil3)
-                bilMax=bil2;
-            else{
-                bilMax=bil3;
+            if (bill2 > bill3) {
+                billmax = bill2;
+            }else{
+                billmax = bill3;
             }
         }
-        //output
-        System.out.println("Bilangan Maksimum adalah " + bilMax);
+        System.out.println("billmax" + billmax);
     }
 }

@@ -27,41 +27,29 @@ public class Kafe {
         if(isMember){
             diskon = 0.1;
             System.out.println("Diskon 10%");
-            if(pilihanMenu == 1){
-                harga = 14000;
-                System.out.println("Harga recebowl = 14000");
-            }else if(pilihanMenu == 2){
-                harga = 3000;
-                System.out.println("Harga ice tea = 3000");
-            }else if(pilihanMenu == 3){
-                harga = 15000;
-                System.out.println("Harga bundling = 15000");
-            }else{
-                System.out.println("Input menu salah!");
-                return;
-            }
-            total = harga - (harga*diskon);
-            if(metodePembayaran.equalsIgnoreCase("qris"))
-                total = total-1000;
-            System.out.println("Total bayar setelah didiskon: "+total);
+           
         }else{
-            if(pilihanMenu == 1){
-                harga = 14000;
-                System.out.println("Harga recebowl = 14000");
-            }else if(pilihanMenu == 2){
-                harga = 3000;
-                System.out.println("Harga ice tea = 3000");
-            }else if(pilihanMenu == 3){
-                harga = 15000;
-                System.out.println("Harga bundling = 15000");
-            }else{
-                System.out.println("Input menu salah!");
-                return;
-            }
-            if(metodePembayaran.equalsIgnoreCase("qris")){
-                harga = harga-1000;
-            }
-            System.out.println("Total bayar setelah didiskon: "+harga);
+            diskon = 0;
+            System.out.println("Tidak ada diskon");
         }
+
+        if(pilihanMenu == 1){
+            harga = 14000;
+            System.out.println("Harga recebowl = 14000");
+        }else if(pilihanMenu == 2){
+            harga = 3000;
+            System.out.println("Harga ice tea = 3000");
+        }else if(pilihanMenu == 3){
+            harga = 15000;
+            System.out.println("Harga bundling = 15000");
+        }else{
+            System.out.println("Input menu salah!");
+            return;
+        }
+        total = harga - (harga*diskon);
+        
+        if(metodePembayaran.equalsIgnoreCase("qris"))
+            total = total-1000;
+        System.out.println("Total bayar setelah didiskon: "+total);
     }
 }
