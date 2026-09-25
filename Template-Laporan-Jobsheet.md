@@ -1,4 +1,4 @@
-# LAPORAN PRAKTIKUM: JOBSHEET 4 - PEMILIHAN 1
+# JOBSHEET 4 - PEMILIHAN 1
 
 **Identitas Mahasiswa:**
 * **Nama:** [Nama Mahasiswa]
