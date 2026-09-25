@@ -46,7 +46,7 @@ public class Percobaan1 {
 #### 2.1.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Contoh Gambar Output Percobaan 1](https://via.placeholder.com/600x200.png?text=Contoh+Screenshot+Output+Program)
+![Contoh Gambar Output Percobaan 1](/contoh-gambar.png)
 
 #### 2.1.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apa fungsi dari perintah `if`?
